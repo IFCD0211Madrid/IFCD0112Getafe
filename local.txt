@@ -1,2 +1,3 @@
 Fichero creado en Ubuntu
 Otra línea a las 13:10
+Otra nueva línea editada a las 13:20
