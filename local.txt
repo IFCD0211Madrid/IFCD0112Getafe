@@ -1,3 +1,2 @@
-Fichero creado en Ubuntu
-Otra línea a las 13:10
+Fichero creado en local (Ubuntu)
 Otra nueva línea editada a las 13:20
